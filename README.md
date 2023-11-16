@@ -1,7 +1,7 @@
 
 ## First Principles of Computer Vision Specialization Certificate
 
-#### Offered By - Columbia University on Coursera: (https://www.coursera.org/specializations/firstprinciplesofcomputervision)
+### Offered By - Columbia University on Coursera: (https://www.coursera.org/specializations/firstprinciplesofcomputervision)
 
 
 ### 📍 About Professional Certificate
